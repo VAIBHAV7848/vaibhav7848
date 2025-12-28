@@ -1,5 +1,5 @@
 # 💫 About Me
-
+Hi, I’m **Vaibhav Chavanpatil** 👋  
 🔭 Building **KLE CONNECT** — a campus collaboration web platform  
 🌱 Focused on **scalable full-stack systems & clean architecture**  
 💬 Ask me about **databases, backend design, system logic**  
@@ -47,11 +47,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vaibhav7848&theme=dark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=vaibhav7848&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=vaibhav7848&theme=dark)
+![](https://streak-stats.demolab.com?user=vaibhav7848&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7848&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7848&theme=dark&layout=compact&cache_seconds=1800)
 
 ---
 
