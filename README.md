@@ -55,7 +55,8 @@ Hi, I’m **Vaibhav Chavanpatil** 👋
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vaibhav7848&theme=radical&margin-w=4)
+![GitHub followers](https://img.shields.io/github/followers/vaibhav7848?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/vaibhav7848?affiliations=OWNER%2CCOLLABORATOR)
 
 ---
 
