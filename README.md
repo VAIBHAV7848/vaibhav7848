@@ -1,4 +1,5 @@
 # 💫 About Me
+
 Hi, I’m **Vaibhav Chavanpatil** 👋  
 🔭 Building **KLE CONNECT** — a campus collaboration web platform  
 🌱 Focused on **scalable full-stack systems & clean architecture**  
@@ -12,6 +13,27 @@ Hi, I’m **Vaibhav Chavanpatil** 👋
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/v_chavanpatil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chavanpatil-a047b035a)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavanpatilvaibhav395@gmail.com)
+
+---
+
+## 🚀 Featured Project
+
+### **KLE CONNECT**
+Campus collaboration platform for group study and academic coordination.
+
+- Backend-first architecture  
+- Database-driven design  
+- Built for scalability  
+
+🔗 https://github.com/vaibhav7848/KLE_CONNECT
+
+---
+
+## 🧠 Engineering Philosophy
+
+- Data models before UI
+- Predictable systems over clever hacks
+- Scale correctness first, polish later
 
 ---
 
@@ -36,39 +58,18 @@ Hi, I’m **Vaibhav Chavanpatil** 👋
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
-
 ---
 
 ## 📊 GitHub Activity
 
 ![Vaibhav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav7848&theme=react-dark)
 
-
-
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Overview
 
-![GitHub followers](https://img.shields.io/github/followers/vaibhav7848?style=flat)
-![GitHub stars](https://img.shields.io/github/stars/vaibhav7848?affiliations=OWNER%2CCOLLABORATOR)
-
----
-
-## ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=vaibhav7848&limit=5&theme=dark)
+![Followers](https://img.shields.io/github/followers/vaibhav7848?style=flat)
+![Stars](https://img.shields.io/github/stars/vaibhav7848?affiliations=OWNER%2CCOLLABORATOR)
 
 ---
 
