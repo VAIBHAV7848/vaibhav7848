@@ -45,13 +45,11 @@ Hi, I’m **Vaibhav Chavanpatil** 👋
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=vaibhav7848&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Vaibhav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav7848&theme=react-dark)
 
-![](https://streak-stats.demolab.com?user=vaibhav7848&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7848&theme=dark&layout=compact&cache_seconds=1800)
 
 ---
 
