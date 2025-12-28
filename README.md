@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**VAIBHAV7848/vaibhav7848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me
+# 💫 About Me
 
 🔭 Building **KLE CONNECT** — a campus collaboration web platform  
 🌱 Focused on **scalable full-stack systems & clean architecture**  
@@ -83,10 +74,3 @@ Here are some ideas to get you started:
 ---
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=vaibhav7848&icon=0&color=0)
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
