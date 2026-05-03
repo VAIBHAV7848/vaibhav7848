@@ -10,8 +10,7 @@ Hi, I’m **Vaibhav Chavanpatil** 👋
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://portfolio-ten-nu-68ydd9o8ac.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/v_chavanpatil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://portfolio-ten-nu-68ydd9o8ac.vercel.app/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/v_chavanpatil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chavanpatil-a047b035a)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavanpatilvaibhav395@gmail.com)
 
