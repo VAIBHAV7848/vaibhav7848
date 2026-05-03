@@ -1,6 +1,8 @@
 # 💫 About Me
 
 Hi, I’m **Vaibhav Chavanpatil** 👋  
+🌐 Portfolio: https://portfolio-ten-nu-68ydd9o8ac.vercel.app/  
+
 🔭 Building **KLE CONNECT** — a campus collaboration web platform  
 🌱 Focused on **scalable full-stack systems & clean architecture**  
 💬 Ask me about **databases, backend design, system logic**  
@@ -10,7 +12,8 @@ Hi, I’m **Vaibhav Chavanpatil** 👋
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://portfolio-ten-nu-68ydd9o8ac.vercel.app/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/v_chavanpatil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://portfolio-ten-nu-68ydd9o8ac.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/v_chavanpatil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chavanpatil-a047b035a)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavanpatilvaibhav395@gmail.com)
 
@@ -25,15 +28,15 @@ Campus collaboration platform for group study and academic coordination.
 - Database-driven design  
 - Built for scalability  
 
-🔗 https://github.com/vaibhav7848/KLE_CONNECT
+🔗 https://github.com/VAIBHAV7848/KLE_CONNECT
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-- Data models before UI
-- Predictable systems over clever hacks
-- Scale correctness first, polish later
+- Data models before UI  
+- Predictable systems over clever hacks  
+- Scale correctness first, polish later  
 
 ---
 
@@ -62,15 +65,15 @@ Campus collaboration platform for group study and academic coordination.
 
 ## 📊 GitHub Activity
 
-![Vaibhav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav7848&theme=react-dark)
+![Vaibhav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAV7848&theme=react-dark)
 
 ---
 
 ## 🏆 GitHub Overview
 
-![Followers](https://img.shields.io/github/followers/vaibhav7848?style=flat)
-![Stars](https://img.shields.io/github/stars/vaibhav7848?affiliations=OWNER%2CCOLLABORATOR)
+![Followers](https://img.shields.io/github/followers/VAIBHAV7848?style=flat)
+![Stars](https://img.shields.io/github/stars/VAIBHAV7848?affiliations=OWNER%2CCOLLABORATOR)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhav7848&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=VAIBHAV7848&label=Profile%20Views&color=blue&style=flat)
