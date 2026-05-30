@@ -1,7 +1,9 @@
+<div align="center">
+
+![Vaibhav Chavanpatil Header Banner](vaibhav_chavanpatil_banner.png)
+
 # ⚡ Vaibhav Chavanpatil
 > **Full-Stack Systems Architect • Applied Machine Learning Specialist • Network Systems Engineer**
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-nu-68ydd9o8ac.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chavanpatil-a047b035a)
