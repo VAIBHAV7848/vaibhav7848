@@ -22,6 +22,27 @@ I am a product-focused **Software Engineer** specializing in the design, develop
 
 ---
 
+## 🔥 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/VAIBHAV7848/EFA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VAIBHAV7848&repo=EFA&theme=react&bg_color=0d1117&border_color=E07856&icon_color=E07856&title_color=ffd700&text_color=c9d1d9" alt="EFA - Everything For AI" />
+</a>
+
+**🤖 EFA — Everything For AI**<br />
+*The Operating System for AI Agent Harnesses*
+
+`67 Agents` · `271 Skills` · `92 Commands` · `7 Harnesses`
+
+[![Stars](https://img.shields.io/github/stars/VAIBHAV7848/EFA?style=flat-square&color=E07856&labelColor=0d1117)](https://github.com/VAIBHAV7848/EFA)
+[![Forks](https://img.shields.io/github/forks/VAIBHAV7848/EFA?style=flat-square&color=ffd700&labelColor=0d1117)](https://github.com/VAIBHAV7848/EFA)
+
+Works across **Data Processor Code** · **Codex** · **Cursor** · **Analytics Engine** · **OpenCode** · **Zed** · **GitHub Auto-completer**
+
+</div>
+
+
 ## 🛠️ Core Specialties & Domain Expertise
 
 <table width="100%">
