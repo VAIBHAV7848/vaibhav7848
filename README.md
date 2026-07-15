@@ -1,11 +1,15 @@
 <div align="center">
 
-<img src="vaibhav_chavanpatil_banner.png" alt="Vaibhav Chavanpatil" width="100%" />
+<img src="banner.svg" alt="Vaibhav Chavanpatil" width="640" />
 
-<br />
+<br /><br />
+
+<img src="https://github.com/VAIBHAV7848.png" width="110" style="border-radius:50%;border:3px solid #3B82F6;" alt="Vaibhav Chavanpatil" />
+
+<br /><br />
 
 <a href="https://github.com/VAIBHAV7848">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8E%93+CSE+Undergrad+%40+KLE+Tech;%E2%9A%A1+Full-Stack+%2B+AI%2FML+Builder;%F0%9F%8E%AF+Building+toward+SWE+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=60&lines=%F0%9F%8E%93+CSE+Undergrad+%40+KLE+Tech;%E2%9A%A1+Full-Stack+%2B+AI%2FML+Builder;%F0%9F%8E%AF+Building+toward+SWE+internships" alt="Typing SVG" />
 </a>
 
 <br />
@@ -86,6 +90,10 @@ Third-year CSE student at KLE Technological University, focused on full-stack de
 
 <img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV7848&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=E07856&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAV7848&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com/?user=VAIBHAV7848&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=E07856&currStreakLabel=58A6FF" alt="GitHub Streak" width="70%" />
 
 </div>
 
