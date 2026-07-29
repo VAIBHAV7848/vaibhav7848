@@ -70,6 +70,20 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VAIBHAV7848/VAIBHAV7848/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VAIBHAV7848/VAIBHAV7848/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VAIBHAV7848/VAIBHAV7848/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
 ## 📊 Activity & Stats
 
 <div align="center">
@@ -86,5 +100,5 @@
 ---
 
 <div align="center">
-  <sub>High-Fidelity Vector ASCII Portrait • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
+  <sub>Hyper-Accurate Vector ASCII Portrait & Contribution Snake • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
 </div>
