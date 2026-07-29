@@ -1,126 +1,90 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://github.com/VAIBHAV7848">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Vaibhav+Chavanpatil;Full-Stack+Software+Engineer;AI+%2F+ML+Enthusiast;Building+Practical,+Scalable+Systems" alt="Typing SVG" />
-</a>
+<!-- Black & White Monochromatic ASCII Video Header -->
+<img src="./ascii_bw_video_header.gif" width="100%" alt="VAIBHAV7848 Monochromatic ASCII Video Banner" />
 
-<br/><br/>
+### ⚡ CSE Student • Full-Stack Web Developer • AI-Assisted Workflows ⚡
 
-<!-- Spotify Now Playing -->
-<a href="https://open.spotify.com/user/p9cyr2v18koeo9pdytl7nzpew">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=p9cyr2v18koeo9pdytl7nzpew&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAIBHAV7848)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-chavanpatil-a047b035a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_chavanpatil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-nu-68ydd9o8ac.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavanpatilvaibhav395@gmail.com)
 
-<br/><br/>
-
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=VAIBHAV7848&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
-
-<br/><br/>
-
-<!-- Dynamic Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=60&section=header" width="100%"/>
+---
 
 </div>
+
+## 👨‍💻 About Me
+
+```text
+┌──[ sysinfo@vaibhav7848 ]
+│ 
+│ 🎓 Degree:      Computer Science & Engineering (B.E. / B.Tech)
+│ 🚀 Focus:       Full-Stack Web Systems & Data-Driven Tools
+│ 🤖 Speciality:  AI-Assisted Software Development & Automation
+│ 🎯 Current Goal: Building scalable web applications with TypeScript & Next.js
+│ 📍 Location:    India
+│ 
+└─────────────────────────────────────────────────────────────┘
+```
+
+- 🔭 **Currently Building:** Collaborative academic platforms and financial tracking dashboards.
+- 🌱 **Learning & Exploring:** Distributed system architectures, database normalization, and LLM-integrated developer tooling.
+- ⚡ **Fun Fact:** I leverage AI agent harnesses and modern workflows to turn complex ideas into clean code fast!
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### **Languages & Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### **Frameworks & Web**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Databases & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| 🎓 [**KLE Connect**](https://github.com/VAIBHAV7848/KLE_CONNECT) | Campus collaboration platform for resource sharing & real-time communication | `TypeScript` `Next.js` `Supabase` `PostgreSQL` |
+| 💸 [**ExpenseIQ**](https://github.com/VAIBHAV7848/ExpenseIQ) | Personal finance tracker with offline sync & interactive analytics | `JavaScript` `Vite` `CSS3` `HTML5` |
+| 🛡️ [**Truthbridge**](https://github.com/VAIBHAV7848/truthbridge) | Data integrity verification tool for robust information insights | `Python` `PostgreSQL` `TypeScript` `PLpgSQL` |
+
+---
+
+## 📊 Activity & Stats
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAV7848&bg_color=0d1117&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true)
 
 <br/>
 
-<div align="center">
-  <h2>📊 Live Stats Dashboard</h2>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV7848&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VAIBHAV7848&theme=tokyonight&hide_border=true&fire=00F0FF&ring=00F0FF" alt="GitHub Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAV7848&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV7848&show_icons=true&theme=dark&hide_border=true&count_private=true" height="175" alt="stats card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAV7848&layout=compact&theme=dark&hide_border=true" height="175" alt="top languages card" />
+
 </div>
 
-<br/><br/>
+---
 
 <div align="center">
-  <h2>🚀 Featured Creations</h2>
-</div>
-
-> ### 🔗 [KLE Connect](https://github.com/VAIBHAV7848/KLE_CONNECT)
-> **The Ultimate Academic Nexus.** A collaborative platform engineered for real-time communication, resource sharing, and seamless campus connectivity.
-> <br/><br/>
-> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-
-<br/>
-
-> ### 💰 [ExpenseIQ](https://github.com/VAIBHAV7848/ExpenseIQ)
-> **Financial Clarity, Perfected.** A blazing-fast progressive web app bringing intelligence and elegant usability to personal day-to-day finance tracking.
-> <br/><br/>
-> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-
-<br/>
-
-> ### 🌉 [Truthbridge](https://github.com/VAIBHAV7848/truthbridge)
-> **Bridging the Gap to Reality.** A powerful, data-driven application designed to uncover insights and ensure robust information integrity.
-> <br/><br/>
-> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PLpgSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<br/><br/>
-
-<div align="center">
-  <h2>🛠️ Tech & Tools Arsenal</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <h2>📈 GitHub Activity</h2>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAV7848&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true&title_color=00F0FF" alt="Activity Graph" width="98%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=60&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <h2>🌌 Let's Connect & Build The Future</h2>
-  <br/>
-  <a href="https://github.com/VAIBHAV7848">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/vaibhav7848">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/vaibhav7848">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-ten-nu-68ydd9o8ac.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:chavanpatilvaibhav395@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <br/><br/>
-  <p>
-    <i>✨ "Code is poetry, execution is art." ✨</i>
-  </p>
+  <sub>Designed in High-Contrast Black & White Monochromatic ASCII • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
 </div>
