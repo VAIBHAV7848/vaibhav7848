@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Vector ASCII Portrait rendered from your profile photo (Medium width 460px) -->
-<img src="./ascii.svg" width="460" alt="Vaibhav Chavanpatil"/>
+<!-- High-Fidelity Vector ASCII Portrait rendered from your profile photo -->
+<img src="./ascii.svg" width="560" alt="Vaibhav Chavanpatil"/>
 
 <br/><br/>
 
@@ -86,5 +86,5 @@
 ---
 
 <div align="center">
-  <sub>Vector ASCII Portrait • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
+  <sub>High-Fidelity Vector ASCII Portrait • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
 </div>
