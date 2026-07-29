@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Black & White Monochromatic ASCII Video Header -->
-<img src="./ascii_bw_video_header.gif" width="100%" alt="VAIBHAV7848 Monochromatic ASCII Video Banner" />
+<!-- Cyber HUD & Holographic Radar Video Header -->
+<img src="./cyber_hud_header.gif" width="100%" alt="VAIBHAV7848 Cyber HUD Banner" />
 
 ### ⚡ CSE Student • Full-Stack Web Developer • AI-Assisted Workflows ⚡
 
@@ -74,17 +74,17 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAV7848&bg_color=0d1117&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAV7848&bg_color=0d1117&color=00f0ff&line=00f0ff&point=00ff88&area=true&hide_border=true)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV7848&show_icons=true&theme=dark&hide_border=true&count_private=true" height="175" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAV7848&layout=compact&theme=dark&hide_border=true" height="175" alt="top languages card" />
+<img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV7848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="stats card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAV7848&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="top languages card" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed in High-Contrast Black & White Monochromatic ASCII • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
+  <sub>Cyber HUD & Radar Visualizer • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
 </div>
