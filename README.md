@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- High-Fidelity Vector ASCII Portrait rendered from your profile photo -->
-<img src="./ascii.svg" width="560" alt="Vaibhav Chavanpatil"/>
+<!-- Responsive Vector ASCII Portrait: Max-width 480px on Desktop, 100% on Mobile -->
+<img src="./ascii.svg" width="100%" style="max-width: 480px;" alt="Vaibhav Chavanpatil"/>
 
 <br/><br/>
 
@@ -73,13 +73,11 @@
 ## 🐍 GitHub Contribution Snake Game
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VAIBHAV7848/VAIBHAV7848/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VAIBHAV7848/VAIBHAV7848/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VAIBHAV7848/VAIBHAV7848/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VAIBHAV7848/VAIBHAV7848/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VAIBHAV7848/VAIBHAV7848/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/platane/master/github-contribution-grid-snake.svg" width="100%" style="max-width: 750px;">
+  </picture>
 </div>
 
 ---
@@ -88,17 +86,20 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAV7848&bg_color=0d1117&color=00f0ff&line=00f0ff&point=00ff88&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAIBHAV7848&bg_color=0d1117&color=00f0ff&line=00f0ff&point=00ff88&area=true&hide_border=true" width="100%" style="max-width: 750px;" alt="Activity Graph"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV7848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="stats card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAV7848&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="top languages card" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV7848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" style="max-width: 440px;" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAV7848&layout=compact&theme=tokyonight&hide_border=true" width="100%" style="max-width: 320px;" alt="Top Languages"/>
+</p>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Hyper-Accurate Vector ASCII Portrait & Contribution Snake • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
+  <sub>Responsive Vector ASCII Portrait & Contribution Snake • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
 </div>
