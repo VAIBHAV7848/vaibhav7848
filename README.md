@@ -1,6 +1,9 @@
 <div align="center">
 
-### ⚡ CSE Student • Full-Stack Web Developer • AI-Assisted Workflows ⚡
+<!-- Vector ASCII Portrait rendered from your profile photo (Medium width 460px) -->
+<img src="./ascii.svg" width="460" alt="Vaibhav Chavanpatil"/>
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAIBHAV7848)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-chavanpatil-a047b035a)
@@ -83,5 +86,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
+  <sub>Vector ASCII Portrait • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
 </div>
