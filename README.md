@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Photo ASCII Render Header Banner -->
-<img src="./photo_ascii_header.gif" width="100%" alt="VAIBHAV7848 Photo ASCII Banner" />
-
 ### ⚡ CSE Student • Full-Stack Web Developer • AI-Assisted Workflows ⚡
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAIBHAV7848)
@@ -86,5 +83,5 @@
 ---
 
 <div align="center">
-  <sub>Photo ASCII Render • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
 </div>
