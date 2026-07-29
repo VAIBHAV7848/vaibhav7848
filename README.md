@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Cyber HUD & Holographic Radar Video Header -->
-<img src="./cyber_hud_header.gif" width="100%" alt="VAIBHAV7848 Cyber HUD Banner" />
+<!-- Photo ASCII Render Header Banner -->
+<img src="./photo_ascii_header.gif" width="100%" alt="VAIBHAV7848 Photo ASCII Banner" />
 
 ### ⚡ CSE Student • Full-Stack Web Developer • AI-Assisted Workflows ⚡
 
@@ -86,5 +86,5 @@
 ---
 
 <div align="center">
-  <sub>Cyber HUD & Radar Visualizer • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
+  <sub>Photo ASCII Render • Built by <a href="https://github.com/VAIBHAV7848">Vaibhav Chavanpatil</a></sub>
 </div>
