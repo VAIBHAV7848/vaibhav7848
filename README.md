@@ -13,9 +13,11 @@
 ### 🌟 Featured Projects:
 | Project | Description | Star |
 | :--- | :--- | :---: |
+| **[Awesome CSE Resources](https://github.com/VAIBHAV7848/Awesome-CSE-Resources)** | Curated developer resources, roadmaps & cheat sheets | [⭐ Star](https://github.com/VAIBHAV7848/Awesome-CSE-Resources) |
 | **[KLE_CONNECT](https://github.com/VAIBHAV7848/KLE_CONNECT)** | Collaborative academic & student resource platform | [⭐ Star](https://github.com/VAIBHAV7848/KLE_CONNECT) |
 | **[ExpenseIQ](https://github.com/VAIBHAV7848/ExpenseIQ)** | Personal finance & budget tracking dashboard | [⭐ Star](https://github.com/VAIBHAV7848/ExpenseIQ) |
 | **[Label Noise Robustness](https://github.com/VAIBHAV7848/label-noise-robustness)** | Deep learning research on neural network loss functions | [⭐ Star](https://github.com/VAIBHAV7848/label-noise-robustness) |
+
 
 
 ### 🛠️ Languages and Tools:
