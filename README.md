@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/VAIBHAV7848">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Vaibhav+Chavanpatil;Full-Stack+Developer+%7C+ML+Enthusiast;3rd+Year+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vaibhav+Chavanpatil;Full-Stack+Developer+%7C+ML+Enthusiast;3rd+Year+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <!-- Profile Badges -->
@@ -40,7 +40,7 @@ currently_building:
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VAIBHAV7848&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VAIBHAV7848&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -135,7 +135,7 @@ currently_building:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VAIBHAV7848&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VAIBHAV7848&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=VAIBHAV7848&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
