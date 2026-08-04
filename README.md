@@ -10,6 +10,14 @@
 - 💬 Ask me about **React, JavaScript, Python, and Data Science**
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chavanpatil-a047b035a/)
 
+### 🌟 Featured Projects:
+| Project | Description | Star |
+| :--- | :--- | :---: |
+| **[KLE_CONNECT](https://github.com/VAIBHAV7848/KLE_CONNECT)** | Collaborative academic & student resource platform | [⭐ Star](https://github.com/VAIBHAV7848/KLE_CONNECT) |
+| **[ExpenseIQ](https://github.com/VAIBHAV7848/ExpenseIQ)** | Personal finance & budget tracking dashboard | [⭐ Star](https://github.com/VAIBHAV7848/ExpenseIQ) |
+| **[Label Noise Robustness](https://github.com/VAIBHAV7848/label-noise-robustness)** | Deep learning research on neural network loss functions | [⭐ Star](https://github.com/VAIBHAV7848/label-noise-robustness) |
+
+
 ### 🛠️ Languages and Tools:
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
