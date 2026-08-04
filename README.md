@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Full Stack Web Apps & Machine Learning Models**
 - 🌱 I’m currently exploring **Advanced TypeScript, Python, and Deep Learning**
 - 💬 Ask me about **React, JavaScript, Python, and Data Science**
-- 📫 How to reach me: **vaibhav7848 (GitHub)**
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chavanpatil-a047b035a/)
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
